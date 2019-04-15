@@ -1,0 +1,9 @@
+com\avenuecode\webmvcapp\domain\Person.class
+com\avenuecode\webmvcapp\services\templat\PersonServicetemplateImpl.class
+com\avenuecode\webmvcapp\repositories\PersonRepository.class
+com\avenuecode\webmvcapp\controllers\PersonController.class
+com\avenuecode\webmvcapp\services\templat\PersonServiceTemplate.class
+com\avenuecode\webmvcapp\services\PersonService.class
+com\avenuecode\webmvcapp\services\PersonServiceImpl.class
+com\avenuecode\webmvcapp\domain\Person$PersonBuilder.class
+com\avenuecode\webmvcapp\MVCApplication.class
